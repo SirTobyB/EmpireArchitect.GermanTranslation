@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<TalentTree>
+  <name>Militär</name>
+  <rowReq>5</rowReq>
+
+  <Talent id="1">
+    <name>Exerzieren</name>
+    <tooltip>Legionäre gewinnen nun pro ausgegebenem Punkt 3 % schneller Erfahrung.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\Drilling</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>0</x>
+      <y>0</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+  <Talent id="11">
+    <name>Composite Bows</name>
+    <tooltip>Archers now have 3% greater range per point spent.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\ArcherRange</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>1</x>
+      <y>0</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+  <Talent id="12">
+    <name>Guard Training</name>
+    <tooltip>Guard Towers now have 3% greater range per point spent.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\TowerDamage</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>1</x>
+      <y>1</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+  <Talent id="13">
+    <name>Advanced Guard Training</name>
+    <tooltip>Guard Towers now have 1 more damage per point spent.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\TowerRange</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>1</x>
+      <y>2</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+
+</TalentTree>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<Root>
+  <Alert id="1">
+    <name>Gebäude eingestürzt</name>
+    <part1>Durch das Errichten eines Architekturbüros in der Nähe sollte das Problem behoben werden.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="2">
+    <name>Unterhaltung wird benötigt</name>
+    <part1>Du musst Unterhaltung für dein Volk schaffen, um die Menschen von ihrem plebejischen Leben abzulenken. Genau diese Ablenkung macht das Volk glücklich.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="3">
+    <name>Niedrige Bevölkerungszahl</name>
+    <part1>Deine Bevölkerung ist sehr klein im Vergleich zur Anzahl der verfügbaren Arbeitsstellen. Um die Bevölkerungszahl zu erhöhen, musst du Häuser bauen und/oder verbessern.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="4">
+    <name>Märkte werden benötigt</name>
+    <part1>Du brauchst Märkte, um deinem Volk Waren verkaufen zu können. Errichte mindestens einen bei jedem Bevölkerungseinzugsgebiet.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="5">
+    <name>Religion wird benötigt</name>
+    <part1>Du musst Tempel für die verschiedenen Götter errichten, um dein Volk glücklich zu machen und die jeweiligen Gottheiten gnädig zu stimmen.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="6">
+    <name>Schule wird benötigt</name>
+    <part1>Du brauchst eine Schule oder auch zwei Schulen, um Arbeiter bestimmte Berufe erlernen zu lassen.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="7">
+    <name>Die Bevölkerung hungert</name>
+    <part1>Du musst genug Bauernhöfe haben, um die Getreideversorgung zu gewährleisten, sowie einen Markt oder Märkte in der Nähe der Bevölkerung.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="8">
+    <name>Wasser wird benötigt</name>
+    <part1>Du musst Brunnen bauen, um dein Volk mit Wasser zu versorgen.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="9">
+    <name>Überfall!</name>
+    <part1>Einer deiner Steuereintreiber wurde überfallen. Der Dieb ist entkommen mit </part1>
+    <part2> Denarii. Überprüfe die Einblendung zur Zufriedenheit, um herauszufinden, wo die Leute so unzufrieden sind, dass sie ein solches Verbrechen begehen würden.</part2>
+  </Alert>
+  <Alert id="10">
+    <name>Flut</name>
+    <part1>Eine Flut kam über das Land und zerstörte </part1>
+    <part2/>
+  </Alert>
+  <Alert id="11">
+    <name>Du bist verschuldet!</name>
+    <part1>Wenn dein Schuldenstand 2000 Denarii erreicht, verlierst du das Spiel. Eine Münzanstalt ist eine gute Möglichkeit, früh im Spiel an Geld zu gelangen, doch mit der Entwicklung deiner Industrien werden auch ein Handelsposten und Handelswege notwendig.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="12">
+    <name>Massive Schulden!</name>
+    <part1>Wenn dein Schuldenstand 2000 Denarii erreicht, verlierst du das Spiel. Eine Münzanstalt ist eine gute Möglichkeit, früh im Spiel an Geld zu gelangen, doch mit der Entwicklung deiner Industrien werden auch ein Handelsposten und Handelsrouten notwendig.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="13">
+    <name>Minervas Zorn</name>
+    <part1>Das Errichten von Tempeln von Minerva in der Nähe deiner Bevölkerung hilft dabei, Minervas Zorn zu besänftigen.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="14">
+    <name>Segen von Minerva</name>
+    <part1>Du stehst in Minervas Gunst, das hat dir Glück gebracht.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="15">
+    <name>Ceres' Zorn</name>
+    <part1>Das Errichten von Tempeln von Ceres in der Nähe deiner Bevölkerung hilft dabei, Ceres' Zorn zu besänftigen.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="16">
+    <name>Segen von Ceres</name>
+    <part1>Du stehst in Ceres' Gunst, das hat dir Glück gebracht.</part1>
+    <part2/>
+  </Alert>
+  <Alert id="17">
+    <name>Segen von Venus</name>
+    <part1>Du stehst in Venus' Gunst, das hat dir Glück gebracht.</part1>
+    <part2>.</part2>
+  </Alert>
+  <Alert id="18">
+    <name>Venus' Zorn</name>
+    <part1>Der Zorn Venus' richtet sich gegen dich.</part1>
+    <part2>Das Errichten von Tempeln von Venus in der Nähe deiner Bevölkerung hilft dabei, Venus' Zorn zu besänftigen.</part2>
+  </Alert>
+
+  <Alert id="19">
+    <name>Geringer Lagerplatz</name>
+    <part1>Deine Stadt braucht mehr Lagerhäuser oder Getreidespeicher.</part1>
+    <part2></part2>
+  </Alert>
+  <Alert id="20">
+    <name>Niedriger Lebensmittellagerplatz</name>
+    <part1>Deine Stadt braucht mehr Getreidespeicher zur Aufbewahrung von Lebensmitteln.</part1>
+    <part2></part2>
+  </Alert>
+  <Alert id="21">
+    <name>Zu vielen modernisierte Häuser</name>
+    <part1>Du hast zu viele modernisierte Häuser. Du benötigst mehr qualitativ hochwertige Arbeitsplätze, bevor du mehr Häuser ausbauen solltest.</part1>
+    <part2></part2>
+  </Alert>
+</Root>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Unit id="1">
+    <name>Arbeitslos</name>
+    <toolTip>Arbeitslose Menschen brauchen Arbeit. Sie fangen an, in deiner Stadt für Unruhe zu sorgen, wenn sie zu lange keine Arbeit haben.</toolTip>
+  </Unit>
+  <Unit id="2">
+    <name>Bauarbeiter</name>
+    <toolTip>Bauarbeiter gehen auf Baustellen, um das jeweilige Gebäude zu errichten. Bauarbeiter konzentrieren sich auf Gebäude, die die höchste Baupriorität haben und ihnen am Nächsten sind.</toolTip>
+  </Unit>
+  <Unit id="3">
+    <name>Steuereintreiber</name>
+    <toolTip>Steuereintreiber gehen zu Häusern und sammeln die Steuern ein, die die im Haus lebenden Personen der Stadt schulden.</toolTip>
+  </Unit>
+  <Unit id="4">
+    <name>Wagenschieber</name>
+    <toolTip>Wagenschieber verteilen Waren in der Stadt.</toolTip>
+  </Unit>
+  <Unit id="5">
+    <name>Ladenwagenschieber</name>
+    <toolTip>Ladenwagenschieber verteilen Waren in der Stadt und achten dabei auf die Arbeit des jeweiligen Käufers.</toolTip>
+  </Unit>
+  <Unit id="6">
+    <name>Architekt</name>
+    <toolTip>Architekten gehen zu verfallenden Gebäuden und reparieren sie. Architekten konzentrieren sich auf Gebäude mit großem Schaden, berücksichtigen aber auch die Entfernung.</toolTip>
+  </Unit>
+  <Unit id="7">
+    <name>Weinarbeiter</name>
+    <toolTip>Weinarbeiter machen aus Weintrauben Wein.</toolTip>
+  </Unit>
+  <Unit id="8">
+    <name>Spinner</name>
+    <toolTip>Spinner spinnen aus Schafen Wolle.</toolTip>
+  </Unit>
+  <Unit id="9">
+    <name>Weber</name>
+    <toolTip>Weber weben aus Wolle Stoff.</toolTip>
+  </Unit>
+  <Unit id="10">
+    <name>Töpfer</name>
+    <toolTip>Töpfer machen aus Lehm Töpferwaren.</toolTip>
+  </Unit>
+  <Unit id="11">
+    <name>Münzanstalt-Arbeiter</name>
+    <toolTip>Münzanstalt-Arbeiter machen aus Kupfererz Münzen.</toolTip>
+  </Unit>
+  <Unit id="12">
+    <name>Sägewerk-Arbeiter</name>
+    <toolTip>Sägewerk-Arbeiter machen aus Holz Bauholz.</toolTip>
+  </Unit>
+  <Unit id="13">
+    <name>Ziegelmacher</name>
+    <toolTip>Ziegelmacher erschaffen aus Lehm Ziegeln.</toolTip>
+  </Unit>
+  <Unit id="14">
+    <name>Bogenmacher</name>
+    <toolTip>Bogenmacher machen aus Bauholz Bögen.</toolTip>
+  </Unit>
+  <Unit id="15">
+    <name>Schmied</name>
+    <toolTip>Schmiede erschaffen aus Eisenerz Schwerter.</toolTip>
+  </Unit>
+  <Unit id="16">
+    <name>Wassertechniker</name>
+    <toolTip>Wassertechniker überwachen und pflegen Wassersystem-Gebäude.</toolTip>
+  </Unit>
+  <Unit id="17">
+    <name>Stadthändler</name>
+    <toolTip>Stadthändler verkaufen erzeugte Waren ans Volk. Händler bekommen kein Gehalt, sie verdienen Geld beim Verkaufen ihrer Waren.</toolTip>
+  </Unit>
+  <Unit id="18">
+    <name>Händler</name>
+    <toolTip>Händler verkaufen erzeugte Waren auf Handelswegen. Händler bekommen kein Gehalt, sie verdienen Geld beim Verkaufen ihrer Waren.</toolTip>
+  </Unit>
+  <Unit id="19">
+    <name>Priester</name>
+    <toolTip>Priester führen religiöse Aufgaben aus und helfen beim Erfüllen der religiösen Wünsche der Plebejer.</toolTip>
+  </Unit>
+  <Unit id="20">
+    <name>Holzfäller</name>
+    <toolTip>Holzfäller fällen Bäume und produzieren Holz.</toolTip>
+  </Unit>
+  <Unit id="21">
+    <name>Bauer</name>
+    <toolTip>Bauern kultivieren das Land und erstellen Güter basierend auf der Art des Bauernhofes, auf dem sie arbeiten.</toolTip>
+  </Unit>
+  <Unit id="22">
+    <name>Minenarbeiter</name>
+    <toolTip>Minenarbeiter bauen Ressourcen ab basierend auf ihrem Arbeitsort.</toolTip>
+  </Unit>
+  <Unit id="23">
+    <name>Legionär</name>
+    <toolTip>Legionäre sind die militärische Basiseinheit. Legionäre sind eine Nahkampfeinheit. Legionäre können durch das Verschieben ihres Versammlungspunktes gesteuert werden. Du kannst den Versammlungspunkt verschieben, indem du ihre Kasernen auswählst und mit rechts auf den Bildschirm klickst.</toolTip>
+  </Unit>
+  <Unit id="24">
+    <name>Wache</name>
+    <toolTip>Wachen arbeiten auf Wachtürmen. Je mehr Wachen auf einem Turm arbeiten, desto schneller wird geschossen.</toolTip>
+  </Unit>
+  <Unit id="25">
+    <name>Wachtmeister</name>
+    <toolTip>Wachtmeister patrouillieren durch die Straßen, bringen den Menschen Zufriedenheit und bekämpfen feindliche Truppen.</toolTip>
+  </Unit>
+  <Unit id="26">
+    <name>Bogenschütze</name>
+    <toolTip>Bogenschützen sind die militärische Basisfernkampfeinheit. Bogenschützen können durch das Verschieben ihres Versammlungspunktes gesteuert werden. Du kannst den Versammlungspunkt verschieben, indem du ihren Bogenplatz auswählst und mit rechts auf den Bildschirm klickst.</toolTip>
+  </Unit>
+  <Unit id="27">
+    <name>Schneider</name>
+    <toolTip>Schneider stellen aus Stoff Kleidung her.</toolTip>
+  </Unit>
+  <Unit id="28">
+    <name>Möbelarbeiter</name>
+    <toolTip>Möbelarbeiter erschaffen aus Bauholz Möbel.</toolTip>
+  </Unit>
+  <Unit id="29">
+    <name>Metzger</name>
+    <toolTip>Metzger schlachten Schafe und gewinnen so Fleisch.</toolTip>
+  </Unit>
+  <Unit id="30">
+    <name>Schauspieler</name>
+    <toolTip>Schauspieler unterhalten die Massen.</toolTip>
+  </Unit>
+  <Unit id="31">
+    <name>Gladiator</name>
+    <toolTip>Gladiatoren kämpfen für Unterhaltung, Reichtum und Ruhm!</toolTip>
+  </Unit>
+  <Unit id="32">
+    <name>Spielleiter</name>
+    <toolTip>Spielleiter helfen beim Glücksspiel im Würfelhaus.</toolTip>
+  </Unit>
+  <Unit id="33">
+    <name>Lehrer</name>
+    <toolTip>Lehrer bringen Schülern auf einem Grundausbildungsniveau etwas bei.</toolTip>
+  </Unit>
+  <Unit id="34">
+    <name>Schüler</name>
+    <toolTip>Die Aufgabe eines Schülers ist es, auf Grundausbildungsniveau etwas zu lernen.</toolTip>
+  </Unit>
+  <Unit id="35">
+    <name>Arzt</name>
+    <toolTip>Ärzte bieten Gesundheitsfürsorge für ihre Bürger. Ärzte benötigen eine Grundausbildung.</toolTip>
+  </Unit>
+  <Unit id="36">
+    <name>Schäfer</name>
+    <toolTip>Schäfer hüten und züchten Schafe.</toolTip>
+  </Unit>
+  <Unit id="37">
+    <name>Pressearbeit</name>
+    <toolTip>Presse Arbeiter erzeugen Olivenöl aus Oliven.</toolTip>
+  </Unit>
+  
+</Root>

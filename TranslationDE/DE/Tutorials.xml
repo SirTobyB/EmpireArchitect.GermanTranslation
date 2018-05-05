@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Tutorial id="1">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>1</level>
+    <order>1</order>
+    <Pos>
+      <x>-100</x>
+      <y>-100</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Hallo Statthalter! Da dies deine erste Stadt ist, wollen wir dir zunächst erklären, wie die Dinge in der Stadt funktionieren.</textBit>
+  </Tutorial>
+  <Tutorial id="2">
+    <class>BuildingSelection</class>
+    <requirement>Town Hall</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>1</level>
+    <order>2</order>
+    <Pos>
+      <x>1000</x>
+      <y>540</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Dies ist dein Rathaus. Dein Rathaus ist dein Hauptgebäude, wenn es zerstört wird, verlierst du das Level. Klicke auf dein Rathaus, um weitere Informationen darüber zu erhalten.</textBit>
+  </Tutorial>
+  <Tutorial id="3">
+    <class>PointAtBuildingMenu</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>1</level>
+    <order>3</order>
+    <Pos>
+      <x>1000</x>
+      <y>540</y>
+    </Pos>
+    <rot>4.60</rot>
+    <textBit>Zu Beginn gibt es in deinem Rathaus acht Personen. Fünf Bauarbeiter, einen Wachtmeister und einen Architekten. Um mehr über diese Berufe zu erfahren, kannst du deinen Mauszeiger auf eine der Personen bewegen, um eine Kurzinfo anzuzeigen.</textBit>
+  </Tutorial>
+  <Tutorial id="4">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>1</level>
+    <order>4</order>
+    <Pos>
+      <x>-100</x>
+      <y>-100</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>In deinem Rathaus kann auch eine geringe Menge an Ressourcen gelagert werden. Es ist genug Lagerplatz für den Anfang, aber im Laufe der Zeit, wenn deine Stadt wächst, musst du zusätzlichen Lagerplatz schaffen.</textBit>
+  </Tutorial>
+  <Tutorial id="5">
+    <class>ActivateTooltip</class>
+    <requirement>PopulationToolTip</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>1</level>
+    <order>5</order>
+    <Pos>
+      <x>210</x>
+      <y>95</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>In der UI-Leiste oben findest du verschiedene Informationen, die weitaus detaillierter sind, sowie Kurzinfos. Schauen wir uns jetzt die Kurzinfo zur Bevölkerung an, indem wir den Mauszeiger auf das Bevölkerungssymbol bewegen.</textBit>
+  </Tutorial>
+  <Tutorial id="6">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>1</level>
+    <order>6</order>
+    <Pos>
+      <x>-100</x>
+      <y>-100</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Das Bevölkerungssymbol liefert dir weitere Informationen über die gesamte Bevölkerung, einschließlich Gesamtbevölkerung und wie viele freie Arbeitsplätze sowie arbeitslose, heimatlose und gebildete Leute es in deiner Stadt gibt. Die Kurzinfo verrät dir auch, wie viele Wohngelegenheiten momentan zur Verfügung stehen.</textBit>
+  </Tutorial>
+  <Tutorial id="7">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>1</level>
+    <order>7</order>
+    <Pos>
+      <x>-100</x>
+      <y>-100</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Momentan hast du acht heimatlose Personen in deiner Stadt, du solltest ihnen Häuser bauen.</textBit>
+  </Tutorial>
+  <Tutorial id="8">
+    <class>PointAtBuildingMenuButton</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>1</level>
+    <order>8</order>
+    <Pos>
+      <x>-100</x>
+      <y>-100</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Klicke zuerst auf das Baumenü.</textBit>
+  </Tutorial>
+
+  <Tutorial id="9">
+    <class>PointAtBuildingMenuButtonCategory</class>
+    <requirement>Grundlegende</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>1</level>
+    <order>9</order>
+    <Pos>
+      <x>8</x>
+      <y>1</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Klicke als Nächstes auf die Registerkarte "Grundlegende".</textBit>
+  </Tutorial>
+  <Tutorial id="10">
+    <class>PointAtBuildingMenuButtonItem</class>
+    <requirement>Haus</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>1</level>
+    <order>10</order>
+    <Pos>
+      <x>8</x>
+      <y>1</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Wähle dann die Registerkarte "Haus" aus.</textBit>
+  </Tutorial>
+  <Tutorial id="11">
+    <class>BuildBuildings</class>
+    <requirement>House</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>11</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>11</x>
+      <y>38</y>
+    </Loc>
+    <Loc>
+      <x>10</x>
+      <y>39</y>
+    </Loc>
+    <Loc>
+      <x>10</x>
+      <y>40</y>
+    </Loc>
+    <Loc>
+      <x>9</x>
+      <y>41</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Beginnen wir damit, vier Häuser zu bauen. In jedem Haus gibt es genug Platz für fünf Personen und freier Raum wird mit der Zeit durch Zuwanderung in deine Stadt gefüllt. Das Bauen von vier Häusern wird Menschen in deine Stadt bringen.</textBit>
+  </Tutorial>
+  <Tutorial id="12">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>12</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Deine Bauarbeiter beginnen nun mit dem Bauen deiner Häuser. Es dauert eine Weile, bis sie fertig sind, aber wir können weitermachen, während sie bauen.</textBit>
+  </Tutorial>
+  <Tutorial id="13">
+    <class>ChooseBuilding</class>
+    <requirement>Bauernhöfe,Bauernhof</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>13</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+
+    <rot>0</rot>
+    <textBit>Als Nächstes müssen wir sicherstellen, dass dein Volk genug Nahrung hat. Gehe zum Baumenü -> Bauernhöfe -> Bauernhof.</textBit>
+  </Tutorial>
+  <Tutorial id="14">
+    <class>BuildBuildings</class>
+    <requirement>Farm</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>14</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>16</x>
+      <y>27</y>
+    </Loc>
+    <Loc>
+      <x>15</x>
+      <y>30</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Großartig! Nun musst du zwei Bauernhöfe bauen, um mit dem Anbau von Nahrung für deine Bevölkerung zu beginnen. Bauernhöfe sollten mindestens drei Kästchen von Häusern entfernt gebaut werden, denn deine Menschen möchten nicht gern daneben wohnen.</textBit>
+  </Tutorial>
+  <Tutorial id="15">
+    <class>ChooseBuilding</class>
+    <requirement>Grundlegende,Straße</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>15</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Bauen wir jetzt eine Straße, die deine Bauernhöfe mit dem Rest deiner Stadt verbindet. Straßen erhöhen die Bewegungsgeschwindigkeit deines Volkes erheblich, jedes Gebäude sollte an einer Straße liegen. Gehe zum Baumenü -> Grundlegende -> Straße.</textBit>
+  </Tutorial>
+  <Tutorial id="16">
+    <class>BuildBuildingsSpecific</class>
+    <requirement>Road</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>16</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>16</x>
+      <y>26</y>
+    </Loc>
+    <Loc>
+      <x>15</x>
+      <y>27</y>
+    </Loc>
+    <Loc>
+      <x>15</x>
+      <y>28</y>
+    </Loc>
+    <Loc>
+      <x>14</x>
+      <y>29</y>
+    </Loc>
+    <Loc>
+      <x>14</x>
+      <y>30</y>
+    </Loc>
+    <Loc>
+      <x>13</x>
+      <y>31</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Du kannst die Straße durch Klicken und Halten oder in einzelnen Teilen bauen.</textBit>
+  </Tutorial>
+  <Tutorial id="17">
+    <class>ChooseBuilding</class>
+    <requirement>Handel,Markt</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>17</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Der letzte Teil der Lebensmittelkette besteht im Bauen eines Marktes, damit die Menschen die Nahrungsmittel kaufen können, die sie benötigen. Gehe zum Baumenü -> Handel -> Markt.</textBit>
+  </Tutorial>
+  <Tutorial id="18">
+    <class>BuildBuildings</class>
+    <requirement>Market</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>18</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>9</x>
+      <y>35</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Märkte sollten in der Nähe deiner Häuser platziert werden, damit deine Leute zum Einkaufen nicht so lange brauchen.</textBit>
+  </Tutorial>
+
+  <Tutorial id="19">
+    <class>ShowObjectives</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>21</order>
+    <Pos>
+      <x>8</x>
+      <y>1</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Klasse! Du bist auf einem guten Weg, diese Stadt ist bald fertig. Um herauszufinden, was die Ziele eines jeden Levels sind, öffne das Statistikmenü und gehe zur Registerkarte "Ziele".</textBit>
+  </Tutorial>
+  <Tutorial id="20">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>22</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun, da du weißt, wie man mit dem Bau einer Stadt beginnt und sein Volk ernährt, solltest du keine Probleme mit dem Fertigstellen dieser Stadt haben.</textBit>
+  </Tutorial>
+  <Tutorial id="21">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>1</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Genau wie bei deiner letzten Stadt solltest du mit dem Bau von zwei Bauernhöfen und einem Markt beginnen, um für die Ernährung deines Volkes zu sorgen.</textBit>
+  </Tutorial>
+  <Tutorial id="22">
+    <class>ShowTradeMenu</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>2</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Großartig! Nun können wir uns damit beschäftigen, durch Handel Geld in deine Stadt zu bringen. Schau zuerst nach, welcher Handel verfügbar ist. Klicke auf die Schaltfläche Handelsmenü und dann die Schaltfläche "Öffnen" bei jedem Handelsweg.</textBit>
+  </Tutorial>
+  <Tutorial id="23">
+    <class>ChooseBuilding</class>
+    <requirement>Ressourcen,Lehmgrube</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>3</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun, da wir einige Handelswege geöffnet haben, müssen wir die Waren produzieren, die dort gekauft werden. Zu den Handelswegen gehörten Lehm und Töpferwaren. Töpferwaren werden aus Lehm hergestellt, du solltest also mit dem Bau einer Lehmgrube beginnen. Gehe zum Baumenü -> Ressourcen -> Lehmgrube.</textBit>
+  </Tutorial>
+  <Tutorial id="24">
+    <class>BuildBuildings</class>
+    <requirement>Clay Pit</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>4</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>5</x>
+      <y>33</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Lehmgruben müssen in Wassernähe gebaut werden und im Allgemeinen lohnt es sich, sie nah an deine Stadt zu bauen. Stelle sicher, dass du eine Straße anlegst, die die Lehmgrube mit deiner Stadt verbindet.</textBit>
+  </Tutorial>
+  <Tutorial id="25">
+    <class>ChooseBuilding</class>
+    <requirement>Lagerplatz,Lager</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>5</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Lass uns nun in der Nähe ein Lager für die Ressourcen bauen. Lagerplatz in der Nähe verringert die Zeit für den Transport der Waren. Gehe zum Baumenü -> Lagerplatz -> Lager.</textBit>
+  </Tutorial>
+  <Tutorial id="26">
+    <class>BuildBuildings</class>
+    <requirement>Warehouse</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>6</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>8</x>
+      <y>24</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>In Lagern kann jede beliebige Ressource in deiner Stadt aufbewahrt werden. Lager bieten den größtmöglichen Lagerplatz, den deine Stadt haben kann.</textBit>
+  </Tutorial>
+  <Tutorial id="27">
+    <class>ChooseBuilding</class>
+    <requirement>Fertigung,Töpferei</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>7</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Töpferwaren sind viel mehr wert als unbehandelter Lehm, du solltest also eine Töpferei bauen, um aus Lehm Töpferwaren herzustellen. Gehe zum Baumenü -> Fertigung -> Töpferei.</textBit>
+  </Tutorial>
+  <Tutorial id="28">
+    <class>BuildBuildings</class>
+    <requirement>Pottery Hut</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>8</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>8</x>
+      <y>32</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>In Töpfereien werden aus Lehm Töpferwaren hergestellt, die dein Volk auf dem Markt als Grundausstattung kauft. Töpferwaren sind auch gute Handelsgegenstände.</textBit>
+  </Tutorial>
+  <Tutorial id="29">
+    <class>ChooseBuilding</class>
+    <requirement>Handel,Handelsposten</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>9</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun, da in deiner Stadt einige Handelsressourcen hergestellt werden und es Lagerraum gibt, besteht der letzte Schritt darin, einen Handelsposten zu bauen, um die Waren im Ausland zu verkaufen. Gehe zum Baumenü -> Handel -> Handelsposten.</textBit>
+  </Tutorial>
+  <Tutorial id="30">
+    <class>BuildBuildings</class>
+    <requirement>Trading Post</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>10</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>9</x>
+      <y>34</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Der beste Ort für Handelsposten ist in der Nähe deiner Lager. In diesem Fall haben wir zwei, das Lager selbst und das Rathaus, es eignet sich also ein Ort irgendwo zwischen den beiden, damit guter Zugang gewährleistet werden kann.</textBit>
+  </Tutorial>
+  <Tutorial id="31">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>11</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun, da du alles für den Handel arrangiert hast, brauchst du mehr Arbeiter, die in deinen Gebäuden arbeiten können. Wenn sich in einem Gebäude keine Arbeiter befinden, wird auch nichts produziert. Jetzt ist ein guter Zeitpunkt zum Bauen weiterer Häuser. Schau in der Kurzinfo zur Bevölkerung, wie viele freie Arbeitsplätze du hast.</textBit>
+  </Tutorial>
+  <Tutorial id="32">
+    <class>ChooseBuilding</class>
+    <requirement>Grundlegende,Architekturbüro</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>12</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Mit der Erweiterung deiner Stadt werden Architekturbüros benötigt, um Gebäude zu reparieren. Gut platzierte Architekturbüros können sich gut um 12-15 Gebäude kümmern.  Gehe zum Baumenü -> Grundlegende -> Architekturbüro.</textBit>
+  </Tutorial>
+  <Tutorial id="33">
+    <class>BuildBuildings</class>
+    <requirement>Architect Office</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>13</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>7</x>
+      <y>29</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Architekturbüros leisten die beste Arbeit, wenn sie verteilt sind. Wenn du sie direkt nebeneinander baust, müssen Architekten weiter laufen, um beschädigte Gebäude zu finden, und können sich daher nur um weniger Gebäude kümmern.</textBit>
+  </Tutorial>
+  <Tutorial id="34">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>2</level>
+    <order>14</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Die letzte Ressource für den Handel in dieser Stadt sind Möbel. Um Möbel zu bauen, musst du in Holzlagern Holz hacken -> das Holz in einem Sägewerk zu Bauholz verarbeiten -> und dann aus dem Bauholz in einer Möbelfabrik Möbel bauen. Du brauchst Möbelfabriken, um diese Stadt abzuschließen. Viel Glück, Statthalter!</textBit>
+  </Tutorial>
+  <Tutorial id="35">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>1</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>In dieser kleinen Stadt gibt es bereits eine Versorgungskette für Grundnahrungsmittel, aber die römische Kultur fehlt. Bürger des Reiches möchten die gleichen Einrichtungen genießen wie in Rom.</textBit>
+  </Tutorial>
+  <Tutorial id="36">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>2</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Wenn deine Bürger keine Einrichtungen genießen können, werden sie unglücklich. Unglückliche Bürger sorgen für Ärger in deinen Städten, außerdem werden sie depressiv und ihre Ausdauer verringert sich viel schneller.</textBit>
+  </Tutorial>
+  <Tutorial id="37">
+    <class>ActivateTooltip</class>
+    <requirement>HappinessToolTip</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>3</order>
+    <Pos>
+      <x>600</x>
+      <y>95</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Um die dringlichsten Probleme in deiner Stadt zu identifizieren, schaue in der Kurzinfo Zufriedenheit nach.</textBit>
+  </Tutorial>
+  <Tutorial id="38">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>4</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Hier kannst du sehen, dass das am häufigsten auftretende Problem in deiner Stadt der Wunsch nach Unterhaltung und Religion ist.</textBit>
+  </Tutorial>
+  <Tutorial id="39">
+    <class>ChooseBuilding</class>
+    <requirement>Einrichtungen,Gladiatorenarena</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>5</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Beginnen wir mit dem Erfüllen des Wunsches nach Unterhaltung. Die einfachste Möglichkeit zum Schaffen von Unterhaltung in deiner Stadt ist die Gladiatorenarena, denn sie hat eine große Reichweite und es ist keine Bildung erforderlich. Gehe zum Baumenü -> Einrichtungen -> Gladiatorenarena.</textBit>
+  </Tutorial>
+  <Tutorial id="40">
+    <class>BuildBuildings</class>
+    <requirement>Gladiator Pit</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>6</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>15</x>
+      <y>32</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Gladiatorenarenen haben eine große Reichweite, man kann am besten zwei Bevölkerungseinzugsgebiete damit abdecken.</textBit>
+  </Tutorial>
+  <Tutorial id="41">
+    <class>BuildBuildings</class>
+    <requirement>Gladiator Pit</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>7</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>15</x>
+      <y>32</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Für Häuser mit Level 1 brauchst du nur eine Unterhaltungsquelle, um die Bewohner zufriedenzustellen, doch für jedes weitere Hauslevel brauchst du eine zusätzliche Quelle. Wenn du mehr hast als erforderlich, werden deine Menschen zusätzliche Zufriedenheit erlangen. Jede Unterhaltungsart kann sich nur einmal auf ein Haus auswirken, durch das Anlegen vieler Gladiatorenarenen kann der Unterhaltungswert eines Hauses also nicht erhöht werden.</textBit>
+  </Tutorial>
+  <Tutorial id="42">
+    <class>ChooseBuilding</class>
+    <requirement>Einrichtungen,Kleiner Tempel: Minerva</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>8</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun, da deine Bevölkerung sich an Unterhaltung erfreuen kann, musst du ihren Wunsch nach Religion erfüllen. Alle Götter haben ihre Höhen und Tiefen, doch für diese Stadt solltest du mit einem Tempel für Minerva beginnen, die Göttin der Weisheit. Gehe zum Baumenü -> Einrichtungen -> Kleiner Tempel: Minerva.</textBit>
+  </Tutorial>
+  <Tutorial id="43">
+    <class>BuildBuildings</class>
+    <requirement>Small Temple Minerva</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>9</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>17</x>
+      <y>31</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Jeder Gottestempel kann sich nur einmal auf ein Haus auswirken. Stelle also sicher, dass du Häuser nicht mit nur einem Gottestempel abdeckst. Außerdem hat jeder Gott Segen und Flüche, mit denen er dich belegen kann, wenn er glücklich oder wütend ist. Je mehr Götter dein Volk erreichen kann, desto zufriedener wird es sein.</textBit>
+  </Tutorial>
+  <Tutorial id="44">
+    <class>ShowOverlay</class>
+    <requirement>Religion</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>10</order>
+    <Pos>
+      <x>8</x>
+      <y>1</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Anforderungen bezüglich Religion werden mit der Erweiterung deiner Stadt nachlassen und zunehmen, behalte die Religion in deiner Stadt stets im Auge.</textBit>
+  </Tutorial>
+  <Tutorial id="45">
+    <class>ShowReligion</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>11</order>
+    <Pos>
+      <x>8</x>
+      <y>1</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Um zu sehen, wie die Götter dich betrachten, gehe zum Statistikmenü und dann zur Registerkarte "Pantheon".</textBit>
+  </Tutorial>
+  <Tutorial id="46">
+    <class>ChooseBuilding</class>
+    <requirement>Einrichtungen,Schule</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>12</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Bei vielen Gebäuden ist es erforderlich, dass Arbeiter ausgebildet sind, deine Tempel fallen auch in diese Kategorie. Um mit dem Ausbilden der Menschen zu beginnen, müssen wir eine Schule bauen. Gehe zum Baumenü -> Einrichtungen -> Schule.</textBit>
+  </Tutorial>
+  <Tutorial id="47">
+    <class>BuildBuildings</class>
+    <requirement>School</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>13</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>17</x>
+      <y>25</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Das Ausbilden der Menschen dauert eine Weile, stelle also sicher, dass du so früh wie möglich eine Schule baust, um zu verhindern, dass du irgendwann nicht genug ausgebildetes Personal für fortschrittliche Berufe hast.</textBit>
+  </Tutorial>
+  <Tutorial id="48">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>3</level>
+    <order>14</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Andere Möglichkeiten zum Erhöhen der Zufriedenheit in der Stadt sind das Hinzufügen von Wachtmeistereien in der Stadt sowie das Erhöhen der Löhne, Verbessern der Häuser von gebildeten Menschen und das Verkaufen von Waren an die Bevölkerung auf dem Markt. </textBit>
+  </Tutorial>
+  <Tutorial id="49">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>4</level>
+    <order>1</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Für diese Aufgabe schreibt Rom dir vor, dass du Münzen für das Reich prägen musst und lernst, wie du dein Volk richtig besteuerst. </textBit>
+  </Tutorial>
+  <Tutorial id="50">
+    <class>ChooseBuilding</class>
+    <requirement>Ressourcen,Kupfermine</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>4</level>
+    <order>2</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Du solltest mit dem Bau einer Kupfermine bei Kupfervorkommen beginnen. Gehe zum Baumenü -> Ressourcen -> Kupfermine.</textBit>
+  </Tutorial>
+  <Tutorial id="51">
+    <class>BuildBuildings</class>
+    <requirement>Copper Mine</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>4</level>
+    <order>3</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>21</x>
+      <y>41</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Das Gewinnen von Kupfer für eine Münzanstalt ist eine gute Möglichkeit, um deine Wirtschaft in Schwung zu bringen. Wenn es in einer Gegend Kupfervorkommen gibt, ist es sehr nützlich, Kupfer abzubauen.</textBit>
+  </Tutorial>
+  <Tutorial id="52">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>4</level>
+    <order>4</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Für den Bau einer Münzanstalt brauchst du fünfmal Bauholz im Lager. Stelle sicher, dass du ein Sägewerk baust, um Holz zu Bauholz zu verarbeiten.</textBit>
+  </Tutorial>
+  <Tutorial id="53">
+    <class>ShowReserve</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>4</level>
+    <order>5</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Um fünfmal Bauholz für den Bau einer Münzanstalt anzusammeln, solltest du die Handelsreserve so festlegen, dass deine Händler nur mit Bauholz handeln, wenn es in der Stadt mehr als 10 davon gibt. Gehe zuerst zum Fenster Statistik und wähle dann "Handel" aus. Finde dort die Zeile Bauholz und tippe auf die Schaltfläche "+", um das Reserveniveau so lange anzuheben, bis es 10 erreicht.</textBit>
+  </Tutorial>
+  <Tutorial id="54">
+    <class>ChooseBuilding</class>
+    <requirement>Fertigung,Münzanstalt</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>4</level>
+    <order>6</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun, da wir das Bauholz haben, können wir eine Münzanstalt bauen, um Münzen zu prägen. Münzen sind die profitabelste Ressource im Spiel. Gehe zum Baumenü -> Fertigung -> Münzanstalt.</textBit>
+  </Tutorial>
+  <Tutorial id="55">
+    <class>BuildBuildings</class>
+    <requirement>Mint</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>4</level>
+    <order>7</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>21</x>
+      <y>35</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Da die Anzahl des eingelagerten Bauholzes je nach Produktion schwanken kann, musst du möglicherweise warten, bis du wieder fünfmal Bauholz hast, um deine Münzanstalt zu bauen. In der Ressourcen-Spalte auf der linken Seite des Bildschirmes kannst du sehen, wie viel Bauholz du hast.</textBit>
+  </Tutorial>
+  <Tutorial id="56">
+    <class>ChooseBuilding</class>
+    <requirement>Ressourcen,Eisenmine</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>4</level>
+    <order>8</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Durch einen schnellen Blick ins Handelsmenü können wir sehen, dass sowohl mit Eisenerz als auch mit Schwertern gehandelt werden kann, du solltest also daran arbeiten, diese Ressourcen herzustellen. Gehe zum Baumenü -> Ressourcen -> Eisenmine.</textBit>
+  </Tutorial>
+  <Tutorial id="57">
+    <class>BuildBuildings</class>
+    <requirement>Iron Mine</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>4</level>
+    <order>9</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>18</x>
+      <y>10</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Eisenminen müssen in Bergregionen angelegt werden. Geh vom Rathaus aus in den Norden und platziere dort deine Eisenmine.</textBit>
+  </Tutorial>
+  <Tutorial id="58">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>4</level>
+    <order>10</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun könntest du dich gut mit dem Bau einer Schmiede beschäftigen, damit du Schwerter für den Verkauf schmieden kannst. Vergiss nicht, deinem Volk religiöse Stätten und Unterhaltung zur Verfügung zu stellen. Viel Glück, Statthalter!</textBit>
+  </Tutorial>
+  <Tutorial id="59">
+    <class>ChooseBuilding</class>
+    <requirement>Gesundheit und Wasser,Brunnen</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>19</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Stellen wir nun sicher, dass deine Bevölkerung Zugang zu Wasser hat. Gehe zum Baumenü -> Gesundheit und Wasser -> Brunnen.</textBit>
+  </Tutorial>
+  <Tutorial id="60">
+    <class>BuildBuildings</class>
+    <requirement>Well</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>1</level>
+    <order>20</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>11</x>
+      <y>44</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Zugang zu Brunnenwasser stellt die Einwohner von Häusern mit niedrigem Level zufrieden, aber später brauchen sie Zugang zu sauberen Wasserquellen.</textBit>
+  </Tutorial>
+
+  <Tutorial id="61">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>1</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Statthalter, in diesem feindseligen Gebiet musst du zuerst durch den Bau einiger Wachtürme für Verteidigungsposten sorgen. Für den Bau eines Wachturms brauchst du zehnmal Holz, im Holzlager wird gerade welches gehackt, aber das dauert eine Weile. Bauen wir zuerst einige Gebäude zur Unterstützung.</textBit>
+  </Tutorial>
+  <Tutorial id="62">
+    <class>BuildBuildings</class>
+    <requirement>Architect Office</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>2</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>19</x>
+      <y>61</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Der Bau eines Architekturbüros in der Nähe deiner Wachtürme sorgt dafür, dass sie schneller repariert werden.</textBit>
+  </Tutorial>
+  <Tutorial id="63">
+    <class>BuildBuildings</class>
+    <requirement>Constables Office</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>3</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+
+    <Loc>
+      <x>18</x>
+      <y>63</y>
+    </Loc>
+    <Loc>
+      <x>0</x>
+      <y>0</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Wachtmeister patrouillieren in einem Bereich. Wenn sie feindliche Einheiten sehen, greifen sie bei Sichtkontakt an. Ein oder zwei Wachtmeistereien in der Nähe deiner Wachtürme können Kämpfe zu deinen Gunsten entscheiden.</textBit>
+  </Tutorial>
+  <Tutorial id="64">
+    <class>ChooseBuilding</class>
+    <requirement>Militär,Wachturm</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>3</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Wachtürme sind hervorragende Basisverteidigungsgebäude, wenn sie gut platziert werden. Gehe zum Baumenü -> Militär -> Wachturm.</textBit>
+  </Tutorial>
+  <Tutorial id="65">
+    <class>BuildBuildings</class>
+    <requirement>Guard Tower</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>4</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>20</x>
+      <y>61</y>
+    </Loc>
+    <Loc>
+      <x>19</x>
+      <y>64</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Ein guter Ort für ein paar Wachtürme wäre der Engpass im Osten.</textBit>
+  </Tutorial>
+  <Tutorial id="66">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>5</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun, da du über einen gewissen Schutz verfügst, musst du deine Stadt so ausbauen, dass du für das Militär sorgen kannst.</textBit>
+  </Tutorial>
+  <Tutorial id="67">
+    <class>WaitForDay</class>
+    <requirement>34</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>6</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>This is just a placehodler...</textBit>
+  </Tutorial>
+  <Tutorial id="68">
+    <class>ChooseBuilding</class>
+    <requirement>Militär,Kasernen</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>6</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun ist ein guter Zeitpunkt für die Gründung einer Armee, du solltest also Kasernen bauen. Geh zum Baumenü -> Militär -> Kasernen.</textBit>
+  </Tutorial>
+  <Tutorial id="69">
+    <class>BuildBuildings</class>
+    <requirement>Barracks</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>7</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <Loc>
+      <x>17</x>
+      <y>60</y>
+    </Loc>
+    <rot>0</rot>
+    <textBit>Kasernen können bis zu vier Legionäre beherbergen. Legionäre sind die Fußsoldaten der römischen Armee. Legionäre sind zäh und sie können ziemlich viel Schaden einstecken. Für den Bau einer Kaserne wird zehnmal Bauholz benötigt, möglicherweise musst du warten, bis das Bauholz verfügbar ist.</textBit>
+  </Tutorial>
+  <Tutorial id="70">
+    <class>BuildingSelection</class>
+    <requirement>Barracks</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>1</freeze>
+    <level>5</level>
+    <order>8</order>
+    <Pos>
+      <x>1000</x>
+      <y>540</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Select a Barracks in order to set their way point. If a waypoint is not set the troops will just stay in their building.</textBit>
+  </Tutorial>
+  <Tutorial id="70">
+    <class>BuildingSelection</class>
+    <requirement>Barracks</requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>9</order>
+    <Pos>
+      <x>1000</x>
+      <y>540</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Wähle eine Kaserne aus, um den Versammlungspunkt festzulegen. Wenn kein Versammlungspunkt festgelegt wird, bleiben die Truppen einfach in ihrem Gebäude.</textBit>
+  </Tutorial>
+  <Tutorial id="71">
+    <class>RallyPointBarracks</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>10</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun, da du eine Kaserne ausgewählt hast, klicke einfach mit rechts irgendwo auf die Karte, um deinen Versammlungspunkt auszuwählen. Du kannst auch auf Versammlungspunkte klicken, um sie auszuwählen, und dann mit rechts klicken, um sie wieder zu verschieben.</textBit>
+  </Tutorial>
+  <Tutorial id="72">
+    <class>BasicTutorial</class>
+    <requirement></requirement>
+    <indicatorValue>0</indicatorValue>
+    <freeze>0</freeze>
+    <level>5</level>
+    <order>11</order>
+    <Pos>
+      <x>-200</x>
+      <y>-200</y>
+    </Pos>
+    <rot>0</rot>
+    <textBit>Nun musst du nur noch Karthagos Rathaus zerstören, um zu gewinnen. Viel Glück, Statthalter!</textBit>
+  </Tutorial>
+</Root>
+
+

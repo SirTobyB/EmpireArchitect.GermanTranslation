@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<TalentTree>
+  <name>Verwaltung</name>
+  <rowReq>5</rowReq>
+  <Talent id="1">
+    <name>Recycling</name>
+    <tooltip>Der Wert von in der Münzanstalt geprägten Münzen erhöht sich pro ausgegebenem Punkt um 1.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\Recycling</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>0</x>
+      <y>0</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+  <Talent id="2">
+    <name>Bau</name>
+    <tooltip>Gebäude werden nun pro ausgegebenem Punkt 5 % schneller gebaut.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\Construction</imagepath>
+    <newSkill></newSkill>
+    <!--child>4</child -->
+    <Pos>
+      <x>1</x>
+      <y>0</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+  <Talent id="3">
+    <name>Baumaterialien</name>
+    <tooltip>Wartung und Instandhaltung werden pro ausgegebenem Punkt um 7 % verringert.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\BuildingMaterials</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>1</x>
+      <y>1</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+  <Talent id="4">
+    <name>Steuerreform</name>
+    <tooltip>Steuern bringen pro ausgegebenem Punkt 2 % mehr Erträge.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\TaxOverhaul</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>0</x>
+      <y>2</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+
+  <Talent id="5">
+    <name>Feilschen</name>
+    <tooltip>Exporte bringen pro ausgegebenem Punkt 2 % mehr Erträge.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\Haggling</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>0</x>
+      <y>3</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+  <Talent id="8">
+    <name>Lead Pipes</name>
+    <tooltip>Reservoirs range is exteneded by 1 per point spent.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\ReservoirRange</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>0</x>
+      <y>4</y>
+    </Pos>
+    <max>3</max>
+  </Talent>
+
+</TalentTree>

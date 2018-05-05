@@ -1,0 +1,1110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Term id="1">
+    <EN>Campaign</EN>
+    <DE>Kampagne</DE>
+    <FR>Campagne</FR>
+  </Term>
+  <Term id="2">
+    <EN>Custom Game</EN>
+    <DE>Freies Spiel</DE>
+    <FR>Jeu personnalisé</FR>
+  </Term>
+  <Term id="3">
+    <EN>Options</EN>
+    <DE>Optionen</DE>
+    <FR>Options</FR>
+  </Term>
+  <Term id="4">
+    <EN>Exit</EN>
+    <DE>Beenden</DE>
+    <FR>Sortie</FR>
+  </Term>
+  <Term id="5">
+    <EN>Music Volume</EN>
+    <DE>Lautstärke der Musik</DE>
+    <FR>Volume de la musique</FR>
+  </Term>
+  <Term id="6">
+    <EN>Effects Volume</EN>
+    <DE>Lautstärke Soundeffekte</DE>
+    <FR>Effets Volume</FR>
+  </Term>
+  <Term id="7">
+    <EN>Resolution</EN>
+    <DE>Auflösung</DE>
+    <FR>Résolution</FR>
+  </Term>
+  <Term id="8">
+    <EN>Graphics Quality</EN>
+    <DE>Grafik-Qualität</DE>
+    <FR></FR>
+  </Term>
+  <Term id="9">
+    <EN>Shadows Quality</EN>
+    <DE>Schatten-Qualität</DE>
+    <FR>Qualité des ombres</FR>
+  </Term>
+  <Term id="10">
+    <EN>Full Screen</EN>
+    <DE>Vollbild</DE>
+    <FR>Plein écran</FR>
+  </Term>
+  <Term id="11">
+    <EN>New Campaign</EN>
+    <DE>Neue Kampagne</DE>
+    <FR>Nouvelle Campagne</FR>
+  </Term>
+  <Term id="12">
+    <EN>Load Campaign</EN>
+    <DE>Kampagne laden</DE>
+    <FR>Campagne de charge</FR>
+  </Term>
+  <Term id="13">
+    <EN>Back</EN>
+    <DE>Zurück</DE>
+    <FR>Précédent</FR>
+  </Term>
+  <Term id="14">
+    <EN>Name</EN>
+    <DE>Name</DE>
+    <FR>Nom</FR>
+  </Term>
+  <Term id="15">
+    <EN>Start</EN>
+    <DE>Start</DE>
+    <FR>Début</FR>
+  </Term>
+  <Term id="16">
+    <EN>New Game</EN>
+    <DE>Neues Spiel</DE>
+    <FR>Nouveau jeu</FR>
+  </Term>
+  <Term id="17">
+    <EN>Load Game</EN>
+    <DE>Spiel laden</DE>
+    <FR>Charger le jeu</FR>
+  </Term>
+  <Term id="18">
+    <EN>Load Menu</EN>
+    <DE>Speicherstände</DE>
+    <FR>Menu de chargement</FR>
+  </Term>
+  <Term id="19">
+    <EN>Difficulty</EN>
+    <DE>Schwierigkeitsstufe</DE>
+    <FR>Difficulté</FR>
+  </Term>
+  <Term id="20">
+    <EN>Map Size</EN>
+    <DE>Kartengröße</DE>
+    <FR>Taille de la carte</FR>
+  </Term>
+  <Term id="21">
+    <EN>Forests</EN>
+    <DE>Wälder</DE>
+    <FR>Forêts</FR>
+  </Term>
+  <Term id="22">
+    <EN>Mountains</EN>
+    <DE>Berge</DE>
+    <FR>Montagnes</FR>
+  </Term>
+  <Term id="23">
+    <EN>Copper deposits</EN>
+    <DE>Kupfervorkommen</DE>
+    <FR>Gisements de cuivre</FR>
+  </Term>
+  <Term id="24">
+    <EN>Player</EN>
+    <DE>Spieler</DE>
+    <FR>Lecteur</FR>
+  </Term>
+  <Term id="25">
+    <EN>Game Options</EN>
+    <DE>Spiel-Optionen</DE>
+    <FR>Options de jeu</FR>
+  </Term>
+  <Term id="26">
+    <EN>This save file has been corrupted!</EN>
+    <DE>Dieser Speicherstand ist fehlerhaft!</DE>
+    <FR>Ce fichier de sauvegarde est corrompu !</FR>
+  </Term>
+  <Term id="27">
+    <EN>You must select a file!</EN>
+    <DE>Du musst eine Datei auswählen!</DE>
+    <FR>Vous devez sélectionner un fichier!</FR>
+  </Term>
+  <Term id="28">
+    <EN>Easy</EN>
+    <DE>Einfach</DE>
+    <FR>Facile</FR>
+  </Term>
+  <Term id="29">
+    <EN>Normal</EN>
+    <DE>Normal</DE>
+    <FR>Normal</FR>
+  </Term>
+  <Term id="30">
+    <EN>Hard</EN>
+    <DE>Schwer</DE>
+    <FR>Dur</FR>
+  </Term>
+  <Term id="31">
+    <EN>Very Hard</EN>
+    <DE>Sehr schwer</DE>
+    <FR>Très dur</FR>
+  </Term>
+  <Term id="32">
+    <EN>Low</EN>
+    <DE>Niedrig</DE>
+    <FR>Faible</FR>
+  </Term>
+  <Term id="33">
+    <EN>Medium</EN>
+    <DE>Mittel</DE>
+    <FR>Médium</FR>
+  </Term>
+  <Term id="34">
+    <EN>High</EN>
+    <DE>Hoch</DE>
+    <FR>Haute</FR>
+  </Term>
+  <Term id="35">
+    <EN>Small</EN>
+    <DE>Kleine</DE>
+    <FR>Petit</FR>
+  </Term>
+  <Term id="36">
+    <EN>Large</EN>
+    <DE>Große</DE>
+    <FR>Grande</FR>
+  </Term>
+  <Term id="37">
+    <EN>Load</EN>
+    <DE>Laden</DE>
+    <FR>Charge</FR>
+  </Term>
+  <Term id="38">
+    <EN>Rome</EN>
+    <DE>Rom</DE>
+    <FR>Rome</FR>
+  </Term>
+  <Term id="39">
+    <EN>Team</EN>
+    <DE>Team</DE>
+    <FR>Équipe</FR>
+  </Term>
+  <Term id="40">
+    <EN>New Campaign Options</EN>
+    <DE>Neue Kampagne Optionen</DE>
+    <FR>Nouvelles Options de campagne</FR>
+  </Term>
+  <Term id="41">
+    <EN>That name is taken!</EN>
+    <DE>Dieser Name ist vergeben!</DE>
+    <FR>Ce nom est pris!</FR>
+  </Term>
+  <Term id="42">
+    <EN>You must name your campaign!</EN>
+    <DE>Du musst deiner Kampagne einen Namen geben!</DE>
+    <FR>Vous devez nommer votre campagne!</FR>
+  </Term>
+  <Term id="43">
+    <EN>Game Saved!</EN>
+    <DE>Spiel gespeichert!</DE>
+    <FR>Jeu sauvé!</FR>
+  </Term>
+  <Term id="44">
+    <EN>You must name your save file!</EN>
+    <DE>Du musst deinem Speicherstand einen Namen geben!</DE>
+    <FR>Vous devez nommer votre sauvegarde fichier!</FR>
+  </Term>
+  <Term id="45">
+    <EN>New Buildings</EN>
+    <DE>Neue Gebäude</DE>
+    <FR>Nouveaux bâtiments</FR>
+  </Term>
+  <Term id="46">
+    <EN>Objectives</EN>
+    <DE>Ziele</DE>
+    <FR>Objectifs</FR>
+  </Term>
+  <Term id="47">
+    <EN>Store Basic Goods</EN>
+    <DE>Basisgüter lagern</DE>
+    <FR>Stocker les produits de base</FR>
+  </Term>
+  <Term id="48">
+    <EN>Store at least</EN>
+    <DE>Speichern von mindestens</DE>
+    <FR>Stocker au moins</FR>
+  </Term>
+  <Term id="49">
+    <EN>Basic Goods</EN>
+    <DE>Grundlegenden Gütern</DE>
+    <FR>Produits de base</FR>
+  </Term>
+  <Term id="50">
+    <EN>Enterainment Coverage</EN>
+    <DE>Abdeckung der Unterhaltung</DE>
+    <FR>Enterainment couverture</FR>
+  </Term>
+  <Term id="51">
+    <EN>All homes must have full entertainment coverage</EN>
+    <DE>Alle Häuser benötigen volle Abdeckung der Unterhaltung</DE>
+    <FR>Tous les foyers doivent avoir une couverture complète de divertissement</FR>
+  </Term>
+  <Term id="52">
+    <EN>Religious Coverage</EN>
+    <DE>Abdeckung der Religion</DE>
+    <FR>Couverture religieuse</FR>
+  </Term>
+  <Term id="53">
+    <EN>All homes must have full entertainment coverage</EN>
+    <DE>Alle Häuser benötigen volle Abdeckung der Unterhaltung</DE>
+    <FR>Tous les foyers doivent avoir une couverture complète de divertissement</FR>
+  </Term>
+  <Term id="54">
+    <EN>Amass Gold</EN>
+    <DE>Sammele Geld</DE>
+    <FR>Amassent or</FR>
+  </Term>
+  <Term id="55">
+    <EN>Amass at least</EN>
+    <DE>Sammele mindestens</DE>
+    <FR>Amassez au moins</FR>
+  </Term>
+  <Term id="56">
+    <EN>gold</EN>
+    <DE>geld</DE>
+    <FR>Or</FR>
+  </Term>
+  <Term id="57">
+    <EN>Minimum Happiness</EN>
+    <DE>Minimale Zufriedenheit</DE>
+    <FR>Bonheur minimale</FR>
+  </Term>
+  <Term id="58">
+    <EN>Achieve a minimum happiness score of</EN>
+    <DE>EErreiche eine minimale Zufriedenheits-Punktzahl von</DE>
+    <FR>Obtenir une note minimale de bonheur de</FR>
+  </Term>
+  <Term id="59">
+    <EN>Mint total</EN>
+    <DE>Münzwert</DE>
+    <FR>Valeur de pièce de monnaie</FR>
+  </Term>
+  <Term id="60">
+    <EN>Mint at least</EN>
+    <DE>Mindestens zu produzieren</DE>
+    <FR>Produire au moins</FR>
+  </Term>
+  <Term id="61">
+    <EN>gold worth of coins</EN>
+    <DE>Gold im Wert von Münzen</DE>
+    <FR>valeur or des pièces de monnaie</FR>
+  </Term>
+  <Term id="62">
+    <EN>Sell Resources</EN>
+    <DE>Waren zu verkaufen</DE>
+    <FR>Vendre des ressources</FR>
+  </Term>
+  <Term id="63">
+    <EN>Build Farms</EN>
+    <DE>Bauernhöfe bauen</DE>
+    <FR>Construire des fermes</FR>
+  </Term>
+  <Term id="64">
+    <EN>Build Houses</EN>
+    <DE>Häuser bauen</DE>
+    <FR>Construire des maisons</FR>
+  </Term>
+  <Term id="65">
+    <EN>Build a Market</EN>
+    <DE>Markt bauen</DE>
+    <FR>Construire un marché</FR>
+  </Term>
+  <Term id="66">
+    <EN>Store Grain</EN>
+    <DE>Korn lagern</DE>
+    <FR>Stocker le Grain</FR>
+  </Term>
+  <Term id="67">
+    <EN>Build Furniture Factories</EN>
+    <DE>Möbel-Fabriken zu bauen</DE>
+    <FR>Construire des fabriques de meubles</FR>
+  </Term>
+  <Term id="68">
+    <EN>Build Pottery Huts</EN>
+    <DE>Keramik-Hütten bauen</DE>
+    <FR>Construire des huttes de poterie</FR>
+  </Term>
+  <Term id="69">
+    <EN>Population</EN>
+    <DE>Bevölkerung</DE>
+    <FR>Population</FR>
+  </Term>
+  <Term id="70">
+    <EN>Defeat Carthage at Capua</EN>
+    <DE>Carthage in Capua zu besiegen</DE>
+    <FR>Défaite de Carthage à Capua</FR>
+  </Term>
+  <Term id="71">
+    <EN>Tech Points</EN>
+    <DE>Tech-Punkte</DE>
+    <FR>Tech Points</FR>
+  </Term>
+  <Term id="72">
+    <EN>Open Educated Jobs</EN>
+    <DE>Gebildete Stellenangebote</DE>
+    <FR>Travaux instruits ouverts</FR>
+  </Term>
+  <Term id="73">
+    <EN>Average Happiness</EN>
+    <DE>Durchschnittliche Zufriedenheit</DE>
+    <FR>Bonheur moyen</FR>
+  </Term>
+  <Term id="74">
+    <EN>Unemployed</EN>
+    <DE>Arbeitslose</DE>
+    <FR>Chômeurs</FR>
+  </Term>
+  <Term id="75">
+    <EN>Open Jobs</EN>
+    <DE>Offene Stellen</DE>
+    <FR>Emplois ouverts</FR>
+  </Term>
+  <Term id="76">
+    <EN>Homeless</EN>
+    <DE>Obdachlose</DE>
+    <FR>Sans abri</FR>
+  </Term>
+  <Term id="77">
+    <EN>Available Housing</EN>
+    <DE>Verfügbare Häuser</DE>
+    <FR>Logements disponibles</FR>
+  </Term>
+  <Term id="78">
+    <EN>Basic Educated</EN>
+    <DE>Ungebildet</DE>
+    <FR>Basic éduqué</FR>
+  </Term>
+  <Term id="79">
+    <EN>Next Point</EN>
+    <DE>Nächster Punkt</DE>
+    <FR>Point suivant</FR>
+  </Term>
+  <Term id="80">
+    <EN>Most Common Issues</EN>
+    <DE>Die häufigsten Probleme</DE>
+    <FR>Problèmes plus communs</FR>
+  </Term>
+  <Term id="81">
+    <EN>Military</EN>
+    <DE>Militär</DE>
+    <FR>Militaire</FR>
+  </Term>
+  <Term id="82">
+    <EN>Finishing Shops</EN>
+    <DE>Fertigung</DE>
+    <FR>Production</FR>
+  </Term>
+  <Term id="83">
+    <EN>Workshops</EN>
+    <DE>Werkstatt</DE>
+    <FR>Ateliers</FR>
+  </Term>
+  <Term id="84">
+    <EN>Resources</EN>
+    <DE>Waren</DE>
+    <FR>Ressources</FR>
+  </Term>
+  <Term id="85">
+    <EN>Farms</EN>
+    <DE>Bauernhöfe</DE>
+    <FR>Fermes</FR>
+  </Term>
+  <Term id="86">
+    <EN>Storage</EN>
+    <DE>Lagerplatz</DE>
+    <FR>Stockage</FR>
+  </Term>
+  <Term id="87">
+    <EN>Trade</EN>
+    <DE>Handel</DE>
+    <FR>Commerce</FR>
+  </Term>
+  <Term id="88">
+    <EN>Amenities</EN>
+    <DE>Einrichtungen</DE>
+    <FR>Aménagement</FR>
+  </Term>
+  <Term id="89">
+    <EN>Health and Water</EN>
+    <DE>Gesundheit und Wasser</DE>
+    <FR>Santé et eau</FR>
+  </Term>
+  <Term id="90">
+    <EN>Basic</EN>
+    <DE>Grundlegende</DE>
+    <FR>Basique</FR>
+  </Term>
+  <Term id="91">
+    <EN>Clay</EN>
+    <DE>Lehm</DE>
+    <FR>Argile</FR>
+  </Term>
+  <Term id="92">
+    <EN>Copper Ore</EN>
+    <DE>Kupfererz</DE>
+    <FR>Minerai de cuivre</FR>
+  </Term>
+  <Term id="93">
+    <EN>Iron Ore</EN>
+    <DE>Eisenerz</DE>
+    <FR>Minerai de fer</FR>
+  </Term>
+  <Term id="94">
+    <EN>Wood</EN>
+    <DE>Holz</DE>
+    <FR>Bois</FR>
+  </Term>
+  <Term id="95">
+    <EN>Wool</EN>
+    <DE>Wolle</DE>
+    <FR>laine</FR>
+  </Term>
+  <Term id="96">
+    <EN>Bows</EN>
+    <DE>Bogen</DE>
+    <FR>Bows</FR>
+  </Term>
+  <Term id="97">
+    <EN>Clothing</EN>
+    <DE>Kleidung</DE>
+    <FR>Vêtements</FR>
+  </Term>
+  <Term id="98">
+    <EN>Copper Coin</EN>
+    <DE>Kupfermünze</DE>
+    <FR>pièce de monnaie</FR>
+  </Term>
+  <Term id="99">
+    <EN>Furniture</EN>
+    <DE>Möbel</DE>
+    <FR>Meubles</FR>
+  </Term>
+  <Term id="100">
+    <EN>Pottery</EN>
+    <DE>Töpferei</DE>
+    <FR>Poterie</FR>
+  </Term>
+  <Term id="101">
+    <EN>Swords</EN>
+    <DE>Schwert</DE>
+    <FR>Épée</FR>
+  </Term>
+  <Term id="102">
+    <EN>Wine</EN>
+    <DE>Wein</DE>
+    <FR>Vin</FR>
+  </Term>
+  <Term id="103">
+    <EN>Food</EN>
+    <DE>Nahrungsmittel</DE>
+    <FR>Alimentaire</FR>
+  </Term>
+  <Term id="104">
+    <EN>Grain</EN>
+    <DE>Korn</DE>
+    <FR>Grain</FR>
+  </Term>
+  <Term id="105">
+    <EN>Grapes</EN>
+    <DE>Trauben</DE>
+    <FR>Raisins</FR>
+  </Term>
+  <Term id="106">
+    <EN>Meat</EN>
+    <DE>Fleisch</DE>
+    <FR>Viande</FR>
+  </Term>
+  <Term id="107">
+    <EN>Bricks</EN>
+    <DE>Ziegel</DE>
+    <FR>Briques</FR>
+  </Term>
+  <Term id="108">
+    <EN>Cloth</EN>
+    <DE>Tuch</DE>
+    <FR>Tissu</FR>
+  </Term>
+    <Term id="109">
+    <EN>Lumber</EN>
+    <DE>Bauholz</DE>
+    <FR>Bois de sciage</FR>
+  </Term>
+  <Term id="110">
+    <EN>Sheep</EN>
+    <DE>Schafe</DE>
+    <FR>Moutons</FR>
+  </Term>
+  <Term id="111">
+    <EN>Type</EN>
+    <DE>Typ</DE>
+    <FR>Type de</FR>
+  </Term>
+  <Term id="112">
+    <EN>Local</EN>
+    <DE>Lokale</DE>
+    <FR>Local</FR>
+  </Term>
+  <Term id="113">
+    <EN>Menu</EN>
+    <DE>Menü</DE>
+    <FR>Menu</FR>
+  </Term>
+  <Term id="114">
+    <EN>Pause</EN>
+    <DE>Pause</DE>
+    <FR>Pause</FR>
+  </Term>
+  <Term id="115">
+    <EN>Play</EN>
+    <DE>Spielen</DE>
+    <FR>Jouer</FR>
+  </Term>
+  <Term id="116">
+    <EN>Demolish</EN>
+    <DE>Zerstören</DE>
+    <FR>Démolir</FR>
+  </Term>
+  <Term id="117">
+    <EN>Tech Tree</EN>
+    <DE>Tech-Baum</DE>
+    <FR>Arbre technologique</FR>
+  </Term>
+  <Term id="118">
+    <EN>Stats Screen</EN>
+    <DE>Statistikmenü</DE>
+    <FR>Écran de stats</FR>
+  </Term>
+  <Term id="119">
+    <EN>Trade Screen</EN>
+    <DE>Handelsmenü</DE>
+    <FR>Écran de commerce</FR>
+  </Term>
+  <Term id="120">
+    <EN>Alerts Screen</EN>
+    <DE>Fenster mit Warnmeldungen</DE>
+    <FR>Écran d'alertes</FR>
+  </Term>
+  <Term id="121">
+    <EN>None</EN>
+    <DE>Keine</DE>
+    <FR>Aucun</FR>
+  </Term>
+  <Term id="122">
+    <EN>Upkeep</EN>
+    <DE>Unterhalt</DE>
+    <FR>Entretien</FR>
+  </Term>
+  <Term id="123">
+    <EN>Happiness</EN>
+    <DE>Zufriedenheit</DE>
+    <FR>Bonheur</FR>
+  </Term>
+  <Term id="124">
+    <EN>Taxes</EN>
+    <DE>Steuern</DE>
+    <FR>Taxes</FR>
+  </Term>
+  <Term id="125">
+    <EN>Water</EN>
+    <DE>Wasser</DE>
+    <FR>Eau</FR>
+  </Term>
+  <Term id="126">
+    <EN>Religion</EN>
+    <DE>Religion</DE>
+    <FR>Religion</FR>
+  </Term>
+  <Term id="127">
+    <EN>Entertainment</EN>
+    <DE>Unterhaltung</DE>
+    <FR>Divertissement</FR>
+  </Term>
+  <Term id="128">
+    <EN>House Upgrades</EN>
+    <DE>Haus-Upgrades</DE>
+    <FR>Maison</FR>
+  </Term>
+  <Term id="129">
+    <EN>Buying</EN>
+    <DE>Kaufen</DE>
+    <FR>Achat</FR>
+  </Term>
+  <Term id="130">
+    <EN>Selling</EN>
+    <DE>Verkauf</DE>
+    <FR>Vente</FR>
+  </Term>
+  <Term id="131">
+    <EN>Right click resources to toggle trading them</EN>
+    <DE>Waren rechtsklicken, um den Handel mit ihnen zu steuern</DE>
+    <FR>Faites un clic droit de ressources pour activer/désactiver leur négoce</FR>
+  </Term>
+  <Term id="132">
+    <EN>These resources are what the route buys, meaning things that you can sell to them</EN>
+    <DE>Diese Waren kaufen die Händler der Route, d.h. du kannst diese an die Händler verkaufen</DE>
+    <FR>Ces ressources sont ce qui achète la route, des choses de sens que vous pouvez vendre à eux</FR>
+  </Term>
+  <Term id="133">
+    <EN>These resources are what the route sells, meaning what you can buy from them</EN>
+    <DE>Diese Waren verkaufen die Händler der Route, d.h. du kannst diese von den Händlern kaufen</DE>
+    <FR>Ces ressources sont ce qui se vend le parcours, ce qui signifie que vous pouvez acheter chez eux</FR>
+  </Term>
+  <Term id="134">
+    <EN>Trading</EN>
+    <DE>Handel</DE>
+    <FR>Trading</FR>
+  </Term>
+  <Term id="135">
+    <EN>Current Month</EN>
+    <DE>Aktueller Monat</DE>
+    <FR>Mois en cours</FR>
+  </Term>
+  <Term id="136">
+    <EN>Last Month</EN>
+    <DE>Letzten Monat</DE>
+    <FR>Mois dernier</FR>
+  </Term>
+  <Term id="137">
+    <EN>Income</EN>
+    <DE>Einkommen</DE>
+    <FR>Revenu</FR>
+  </Term>
+  <Term id="138">
+    <EN>Expenses</EN>
+    <DE>Ausgaben</DE>
+    <FR>Frais</FR>
+  </Term>
+  <Term id="139">
+    <EN>Total</EN>
+    <DE>Insgesamt</DE>
+    <FR>Total</FR>
+  </Term>
+  <Term id="140">
+    <EN>Mint</EN>
+    <DE>Münzanstalt</DE>
+    <FR>Hôtel des monnaies</FR>
+  </Term>
+  <Term id="141">
+    <EN>Wages</EN>
+    <DE>Löhne</DE>
+    <FR>Salaires</FR>
+  </Term>
+  <Term id="142">
+    <EN>Construction</EN>
+    <DE>Bau</DE>
+    <FR>Construction</FR>
+  </Term>
+  <Term id="143">
+    <EN>Maintenance</EN>
+    <DE>Wartung</DE>
+    <FR>Entretien</FR>
+  </Term>
+  <Term id="144">
+    <EN>Reserve</EN>
+    <DE>Reserve</DE>
+    <FR>Réserve</FR>
+  </Term>
+  <Term id="145">
+    <EN>Stock</EN>
+    <DE>Lager</DE>
+    <FR>Stock</FR>
+  </Term>
+  <Term id="146">
+    <EN>Price</EN>
+    <DE>Preis</DE>
+    <FR>Prix</FR>
+  </Term>
+  <Term id="147">
+    <EN>Desired</EN>
+    <DE>Erwünscht</DE>
+    <FR>Désiré</FR>
+  </Term>
+  <Term id="148">
+    <EN>Deity</EN>
+    <DE>Gottheit</DE>
+    <FR>Déité</FR>
+  </Term>
+  <Term id="149">
+    <EN>Mood</EN>
+    <DE>Stimmung</DE>
+    <FR>Humeur</FR>
+  </Term>
+  <Term id="150">
+    <EN>Coverage</EN>
+    <DE>Abdeckung</DE>
+    <FR>Couverture</FR>
+  </Term>
+  <Term id="151">
+    <EN>Level</EN>
+    <DE>Stufe</DE>
+    <FR>Niveau</FR>
+  </Term>
+  <Term id="152">
+    <EN>Right Click a resource to stop accepting it</EN>
+    <DE>Eine Ware rechtsklicken, um sie nicht mehr zu akzeptieren</DE>
+    <FR>Faites un clic droit une ressource pour cesser d'accepter il</FR>
+  </Term>
+  <Term id="153">
+    <EN>Materials</EN>
+    <DE>Materialien</DE>
+    <FR>Matériaux</FR>
+  </Term>
+  <Term id="154">
+    <EN>Production</EN>
+    <DE>Produktion</DE>
+    <FR>Production</FR>
+  </Term>
+  <Term id="155">
+    <EN>Occupants</EN>
+    <DE>Bewohner</DE>
+    <FR>Occupants</FR>
+  </Term>
+  <Term id="156">
+    <EN>Temple Access</EN>
+    <DE>Tempel-Zugang</DE>
+    <FR>Accès du temple</FR>
+  </Term>
+  <Term id="157">
+    <EN>Wants Religion</EN>
+    <DE>Will Religion</DE>
+    <FR>Religion veut</FR>
+  </Term>
+  <Term id="158">
+    <EN>Wants Entertainment</EN>
+    <DE>Will Unterhaltung</DE>
+    <FR>Veut divertissement</FR>
+  </Term>
+  <Term id="159">
+    <EN>Wants Well Water</EN>
+    <DE>Will Wasserbrunnen</DE>
+    <FR>Veut bien de l'eau</FR>
+  </Term>
+  <Term id="160">
+    <EN>Wants Health Services</EN>
+    <DE>Will Gesundheitseinrichtungen</DE>
+    <FR>Services de santé</FR>
+  </Term>
+  <Term id="161">
+    <EN>Wants Clean Water</EN>
+    <DE>Will sauberes Wasser</DE>
+    <FR>Veut l'eau propre</FR>
+  </Term>
+  <Term id="164">
+    <EN>Wants Education</EN>
+    <DE>Will Bildung</DE>
+    <FR>Veut que l'éducation</FR>
+  </Term>
+  <Term id="165">
+    <EN>Undesireable Home</EN>
+    <DE>Unattraktives Zuhause</DE>
+    <FR>Accueil indésirable</FR>
+  </Term>
+  <Term id="166">
+    <EN>Starving</EN>
+    <DE>Verhungern</DE>
+    <FR>De la faim</FR>
+  </Term>
+  <Term id="167">
+    <EN>Low Wages</EN>
+    <DE>Niedrige Löhne</DE>
+    <FR>Bas salaires</FR>
+  </Term>
+  <Term id="168">
+    <EN>High Wages</EN>
+    <DE>Hohe Löhne</DE>
+    <FR>Salaires élevés</FR>
+  </Term>
+  <Term id="169">
+    <EN>Blessing of Happiness</EN>
+    <DE>Segen der Zufriedenheit</DE>
+    <FR>Bénédiction du bonheur</FR>
+  </Term>
+  <Term id="170">
+    <EN>Curse of Despair</EN>
+    <DE>Fluch der Verzweiflung</DE>
+    <FR>Malédiction du désespoir</FR>
+  </Term>
+  <Term id="171">
+    <EN>Paid On Time</EN>
+    <DE>Pünktlich bezahlt</DE>
+    <FR>Payée dans les délais</FR>
+  </Term>
+  <Term id="172">
+    <EN>Skipped Taxes</EN>
+    <DE>Übersprungene Steuern</DE>
+    <FR>Ignoré des Taxes</FR>
+  </Term>
+  <Term id="173">
+    <EN>Religious Satisfaction</EN>
+    <DE>Religiöse Zufriedenheit</DE>
+    <FR>Satisfaction religieuse</FR>
+  </Term>
+  <Term id="174">
+    <EN>Entertained</EN>
+    <DE>Unterhalten</DE>
+    <FR>Divertis</FR>
+  </Term>
+  <Term id="175">
+    <EN>Healthy</EN>
+    <DE>Gesund</DE>
+    <FR>En bonne santé</FR>
+  </Term>
+  <Term id="176">
+    <EN>Feels Safe</EN>
+    <DE>Fühlt sich sicher</DE>
+    <FR>Se sent sécurisé</FR>
+  </Term>
+  
+    
+  <Term id="177">
+    <EN>Carrying</EN>
+    <DE>Tragen</DE>
+    <FR>Transportant des</FR>
+  </Term>
+  <Term id="178">
+    <EN>Education</EN>
+    <DE>Bildung</DE>
+    <FR>Éducation</FR>
+  </Term>
+  <Term id="179">
+    <EN>Inventory</EN>
+    <DE>Inventar</DE>
+    <FR>Inventaire</FR>
+  </Term>
+  <Term id="180">
+    <EN>Desires</EN>
+    <DE>Wünsche</DE>
+    <FR>Désirs</FR>
+  </Term>
+  <Term id="181">
+    <EN>Buildings</EN>
+    <DE>Gebäude</DE>
+    <FR>Bâtiments</FR>
+  </Term>
+  <Term id="182">
+    <EN>Tech</EN>
+    <DE>Technologie</DE>
+    <FR>Tech</FR>
+  </Term>
+  <Term id="183">
+    <EN>Units</EN>
+    <DE>Einheiten</DE>
+    <FR>Unités de</FR>
+  </Term>
+  <Term id="184">
+    <EN>Score</EN>
+    <DE>Punkte</DE>
+    <FR>Score</FR>
+  </Term>
+  <Term id="185">
+    <EN>Victory</EN>
+    <DE>Sieg</DE>
+    <FR>Victoire</FR>
+  </Term>
+  <Term id="186">
+    <EN>You Lost</EN>
+    <DE>Du hast verloren</DE>
+    <FR>Vous avez perdu</FR>
+  </Term>
+  <Term id="187">
+    <EN>Pantheon</EN>
+    <DE>Pantheon</DE>
+    <FR>Panthéon</FR>
+  </Term>
+  <Term id="188">
+    <EN>Economy</EN>
+    <DE>Wirtschaft</DE>
+    <FR>Économie</FR>
+  </Term>
+  <Term id="189">
+    <EN>There are no alerts at this time</EN>
+    <DE>Derzeit gibt es keine Warnungen</DE>
+    <FR>Il n'y a aucune alerte en ce moment</FR>
+  </Term>
+    <Term id="190">
+    <EN>Education Required</EN>
+    <DE>Ausbildung erforderlich</DE>
+    <FR>Scolarité requise</FR>
+  </Term>
+  <Term id="191">
+    <EN>Desired Home Level</EN>
+    <DE>Erwünschte Haus Stufe</DE>
+    <FR>Maison niveau désiré</FR>
+  </Term>
+  <Term id="192">
+    <EN>Requires</EN>
+    <DE>Erfordert</DE>
+    <FR>Nécessite</FR>
+  </Term>
+  <Term id="193">
+    <EN>Build Roads</EN>
+    <DE>Straßen bauen</DE>
+    <FR>Construire des routes</FR>
+  </Term>
+  <Term id="194">
+    <EN>Imperial Favor</EN>
+    <DE>Kaiserliche Gunst</DE>
+    <FR>Faveur impériale</FR>
+  </Term>
+  <Term id="195">
+    <EN>Current Favor Rating</EN>
+    <DE>AAktuelle Gunstbewertung</DE>
+    <FR>Notation de faveur actuelle</FR>
+  </Term>
+  <Term id="196">
+    <EN>Requests</EN>
+    <DE>Anforderungen</DE>
+    <FR>Demandes</FR>
+  </Term>
+  <Term id="197">
+    <EN>Save</EN>
+    <DE>Speichern</DE>
+    <FR>Sauver</FR>
+  </Term>
+  <Term id="198">
+    <EN>Controls</EN>
+    <DE>Steuerung</DE>
+    <FR>Contrôles</FR>
+  </Term>
+  <Term id="199">
+    <EN>Return To Game</EN>
+    <DE>Weiterspielen</DE>
+    <FR>Retour au jeu</FR>
+  </Term>
+  <Term id="200">
+    <EN>Exit Game</EN>
+    <DE>Spiel beenden</DE>
+    <FR>Jeu de Exit</FR>
+  </Term>
+  <Term id="201">
+    <EN>Copper Deposits</EN>
+    <DE>Kupfervorkommen</DE>
+    <FR>Gisements de cuivre</FR>
+  </Term>
+  <Term id="202">
+    <EN>Military Events</EN>
+    <DE>Militärische Ereignisse</DE>
+    <FR>Événements militaires</FR>
+  </Term>
+  <Term id="203">
+    <EN>Store Food</EN>
+    <DE>Lebensmittelgeschäft</DE>
+    <FR>Stocker des nourriture</FR>
+  </Term>
+  <Term id="204">
+    <EN>Current Favor</EN>
+    <DE>Aktuelle Gunst</DE>
+    <FR>Faveur actuelle</FR>
+  </Term>
+  <Term id="205">
+    <EN>Educated Workers</EN>
+    <DE>Gebildete Arbeiter</DE>
+    <FR>Travailleurs instruits</FR>
+  </Term>
+  <Term id="206">
+    <EN>Gold</EN>
+    <DE>Geld</DE>
+    <FR>Or</FR>
+  </Term>
+  <Term id="207">
+    <EN>Continue</EN>
+    <DE>Weiterhin</DE>
+    <FR>Continuer</FR>
+  </Term>
+  <Term id="208">
+    <EN>Religious Access</EN>
+    <DE>Religiöser Zugang</DE>
+    <FR>Accès religieux</FR>
+  </Term>
+  <Term id="209">
+    <EN>Entertainment Access</EN>
+    <DE>Haltung Zugang</DE>
+    <FR>Accès Divertissement</FR>
+  </Term>
+  <Term id="210">
+    <EN>Health Access</EN>
+    <DE>Gesundheits Zugang</DE>
+    <FR>Accès santé</FR>
+  </Term>
+  <Term id="211">
+    <EN>No Current Requests</EN>
+    <DE>Keine aktuellen Anfragen</DE>
+    <FR>Aucune demande en cours</FR>
+  </Term>
+  <Term id="212">
+    <EN>Building Upkeep</EN>
+    <DE>Gebäudeunterhalt</DE>
+    <FR>Entretien des bâtiments</FR>
+  </Term>
+  <Term id="213">
+    <EN>Resource</EN>
+    <DE>Ressourcen</DE>
+    <FR>Ressources</FR>
+  </Term>
+  <Term id="214">
+    <EN>Quantity</EN>
+    <DE>Menge</DE>
+    <FR>Quantité</FR>
+  </Term>
+  <Term id="215">
+    <EN>Time</EN>
+    <DE>Zeit</DE>
+    <FR>Temps</FR>
+  </Term>
+  <Term id="216">
+    <EN>Favor</EN>
+    <DE>Bitte</DE>
+    <FR>Veuillez</FR>
+  </Term>
+  <Term id="217">
+    <EN>This is the requested resource</EN>
+    <DE>Dies ist die angeforderte Ressource</DE>
+    <FR>Il s'agit de la ressource demandée</FR>
+  </Term>
+  <Term id="218">
+    <EN>Amount the emperor requests</EN>
+    <DE>Betrag der Kaiser fordert</DE>
+    <FR>Montant de l'empereur demande</FR>
+  </Term>
+  <Term id="219">
+    <EN>How many days are left to fullfil the request</EN>
+    <DE>Wie viele Tage sind noch übrig, um die Anfrage erfüllen</DE>
+    <FR>Combien de jours reste-t-il à fullfil la demande</FR>
+  </Term>
+  <Term id="220">
+    <EN>How much favor gained for completing, or lost for failing to complete</EN>
+    <DE>Wie viel Gunst für den Abschluss gewonnen, oder verloren für nicht abgeschlossen</DE>
+    <FR>Combien de faveurs acquises pour compléter, ou perdu pour ne pas remplir</FR>
+  </Term>
+  <Term id="221">
+    <EN>Type</EN>
+    <DE>Typ</DE>
+    <FR>Type</FR>
+  </Term>
+  <Term id="222">
+    <EN>Peaceful</EN>
+    <DE>Friedliche</DE>
+    <FR>Paisible</FR>
+  </Term>
+  <Term id="223">
+    <EN>Battle</EN>
+    <DE>Schlacht</DE>
+    <FR>Bataille</FR>
+  </Term>
+</Root>

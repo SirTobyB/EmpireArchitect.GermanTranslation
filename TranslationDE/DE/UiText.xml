@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Tip id="1">
+    <name>Kurzinfo Zufriedenheit</name>
+    <toolTip>Zufriedenheit wirkt sich auf die Ausdauer, Technologiepunkte, Geschwindigkeit der Zuwanderung der Bürger und auf verschiedene Ereignisse aus.</toolTip>
+  </Tip>
+  <Tip id="2">
+    <name>Kurzinfo Geld</name>
+    <toolTip>So viele Denarii (Geld) hat deine Stadtregierung. Alle Löhne in deiner Stadt werden am Freitag ausgezahlt. Wenn deine Stadt bei -2000 Denarii ankommt, verlierst du wegen Zusammenbruch der Wirtschaft.</toolTip>
+  </Tip>
+  <Tip id="3">
+    <name>Kurzinfo Einblendung</name>
+    <toolTip>Diese Einblendungen helfen dir beim Erkennen von Problemen in deiner Stadt.</toolTip>
+  </Tip>
+  <Tip id="4">
+    <name>Kurzinfo Bevölkerung</name>
+    <toolTip>Leute wandern zu, wenn es verfügbare Häuser gibt.</toolTip>
+  </Tip>
+  <Tip id="5">
+    <name>Kurzinfo Technologiepunkte</name>
+    <toolTip>Technologiepunkte werden durch die Technologiepunktzahl verdient. Diese wird durch positive Zufriedenheit und arbeitende Menschen erhöht.</toolTip>
+  </Tip>
+  <Tip id="6">
+    <name>Kurzinfo Kaiserliche Gunst</name>
+    <toolTip>Kaiserliche Gunst repräsentiert, wie sehr der Imperator aus Rom dir vertraut und zugetan ist. Positive Gunst ist bei manchen Missionen notwendig, um sie zu beenden. Negative Gunst kann den Imperator dazu bewegen, dir Bestrafung zukommen zu lassen.</toolTip>  </Tip>
+</Root>

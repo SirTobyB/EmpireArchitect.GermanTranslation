@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<Root>
+  <Building id="1">
+    <name>Rathaus</name>
+    <toolTip>Das Rathaus ist dein Hauptgebäude. Wenn es zerstört wird, verlierst du. Durch das Rathaus werden dir Bauarbeiter, ein Architekt, ein Wachtmeister und ein Steuereintreiber zur Verfügung gestellt.</toolTip>
+  </Building>
+  <Building id="2">
+    <name>Haus</name>
+    <toolTip>Häuser sind ein Ort, an dem deine Bevölkerung sich ausruhen kann. Freie Häuerslots bringen Zuwanderer in deine Stadt.</toolTip>
+  </Building>
+  <Building id="3">
+    <name>Straße</name>
+    <toolTip>Straßen erhöhen die Fortbewegungsgeschwindigkeit deines Volkes.</toolTip>
+  </Building>
+  <Building id="4">
+    <name>Holzlager</name>
+    <toolTip>In Holzlagern werden Bäume zu Holz verarbeitet.</toolTip>
+  </Building>
+  <Building id="5">
+    <name>Forum</name>
+    <toolTip>Foren sind Regierungs- und Finanzinstitutionen, durch die dir Steuereintreiber für deine Stadt zur Verfügung gestellt werden.</toolTip>
+  </Building>
+  <Building id="6">
+    <name>Bauernhof</name>
+    <toolTip>Auf Bauernhöfen wird Getreide produziert.</toolTip>
+  </Building>
+  <Building id="7">
+    <name>Architekturbüro</name>
+    <toolTip>Mit Architekturbüros können andere Gebäude instand gehalten und neue gebaut werden.</toolTip>
+  </Building>
+  <Building id="8">
+    <name>Töpferei</name>
+    <toolTip>In Töpfereien wird Lehm zu Töpferwaren verarbeitet.</toolTip>
+  </Building>
+  <Building id="9">
+    <name>Münzanstalt</name>
+    <toolTip>In Münzanstalten werden aus Edelmetallen Münzen geprägt.</toolTip>
+  </Building>
+  <Building id="10">
+    <name>Möbelfabrik</name>
+    <toolTip>In Möbelfabriken werden aus Bauholz Möbel gebaut.</toolTip>
+  </Building>
+  <Building id="11">
+    <name>Schmied</name>
+    <toolTip>Schmiede verwandeln Eisenerz zu Waffen.</toolTip>
+  </Building>
+  <Building id="12">
+    <name>Wachturm</name>
+    <toolTip>Vom Wachturm aus werden feindliche Einheiten mit Pfeilen beschossen.</toolTip>
+  </Building>
+  <Building id="13">
+    <name>Wachtmeisterei</name>
+    <toolTip>In der Wachtmeisterei werden Wachtmeister angelernt, die in deiner Stadt patrouillieren. Wachtmeister senken die Kriminalität und erhöhen die Zufriedenheit. Wachtmeister verteidigen deine Stadt auch gegen feindliche Truppen.</toolTip>
+  </Building>
+  <Building id="14">
+    <name>Kasernen</name>
+    <toolTip>In den Kasernen werden Legionäre ausgebildet, die du an einem beliebigen Ort auf der Karte versammeln kannst.</toolTip>
+  </Building>
+  <Building id="15">
+    <name>Lehmgrube</name>
+    <toolTip>In der Lehmgrube gewinnst du Lehm. Lehmgruben müssen in der Nähe von Wasser angelegt werden.</toolTip>
+  </Building>
+  <Building id="16">
+    <name>Eisenmine</name>
+    <toolTip>In Eisenminen wird Eisenerz abgebaut. Eisenminen müssen in Bergregionen angelegt werden.</toolTip>
+  </Building>
+  <Building id="17">
+    <name>Kupfermine</name>
+    <toolTip>In Kupferminen wird Kupfererz abgebaut. Kupferminen müssen bei Kupfervorkommen angelegt werden.</toolTip>
+  </Building>
+  <Building id="18">
+    <name>Getreidespeicher</name>
+    <toolTip>In Getreidespeichern kann viel Nahrung aufbewahrt werden.</toolTip>
+  </Building>
+  <Building id="19">
+    <name>Lager</name>
+    <toolTip>Im Lager können alle Arten von Waren aufbewahrt werden.</toolTip>
+  </Building>
+  <Building id="20">
+    <name>Markt</name>
+    <toolTip>Auf dem Markt werden Waren an dein Volk verkauft.</toolTip>
+  </Building>
+  <Building id="21">
+    <name>Handelsposten</name>
+    <toolTip>An Handelsposten werden Waren an offene Handelswege verkauft.</toolTip>
+  </Building>
+  <Building id="22">
+    <name>Ziegelei</name>
+    <toolTip>In der Ziegelei werden aus Lehm Ziegeln gefertigt.</toolTip>
+  </Building>
+  <Building id="23">
+    <name>Sägewerk</name>
+    <toolTip>Im Sägewerk wird Holz zu Bauholz verarbeitet.</toolTip>
+  </Building>
+  <Building id="24">
+    <name>Weinberg</name>
+    <toolTip>Auf dem Weinberg werden Weintrauben angebaut.</toolTip>
+  </Building>
+  <Building id="25">
+    <name>Weingut</name>
+    <toolTip>Auf Weingütern werden Weintrauben zu Wein verarbeitet.</toolTip>
+  </Building>
+  <Building id="26">
+    <name>Schule</name>
+    <toolTip>Schulen bringen den Menschen eine Grundausbildung. Diese wird für einige Arbeiten benötigt.</toolTip>
+  </Building>
+  <Building id="27">
+    <name>Kleiner Tempel: Ceres</name>
+    <toolTip>Tempel befriedigen die religiösen Bedürfnisse deines Volkes sowie die Wünsche der Götter.</toolTip>
+  </Building>
+  <Building id="28">
+    <name>Kleiner Tempel: Minerva</name>
+    <toolTip>Tempel befriedigen die religiösen Bedürfnisse deines Volkes sowie die Wünsche der Götter.</toolTip>
+  </Building>
+  <Building id="29">
+    <name>Bogenmacher</name>
+    <toolTip>Der Bogenmacher erschafft aus Bauholz Bogen.</toolTip>
+  </Building>
+  <Building id="30">
+    <name>Bogenplatz</name>
+    <toolTip>Auf dem Bogenplatz werden Bogenschützen ausgebildet, die du an einem beliebigen Ort auf der Karte versammeln kannst.</toolTip>
+  </Building>
+  <Building id="31">
+    <name>Schäferei</name>
+    <toolTip>In der Schäferei werden Schafe gezüchtet.</toolTip>
+  </Building>
+  <Building id="32">
+    <name>Metzgerei</name>
+    <toolTip>In der Metzgerei wird aus Schafen Fleisch gemacht.</toolTip>
+  </Building>
+  <Building id="33">
+    <name>Zwirner</name>
+    <toolTip>Der Zwirner macht aus Schafen Wolle.</toolTip>
+  </Building>
+  <Building id="34">
+    <name>Weberei</name>
+    <toolTip>In der Weberei wird aus Wolle Stoff gewebt.</toolTip>
+  </Building>
+  <Building id="35">
+    <name>Gladiatorenarena</name>
+    <toolTip>In der Gladiatorenarena wird Unterhaltung für eine große Region geboten. Gladiatoren sterben allerdings mitunter...</toolTip>
+  </Building>
+  <Building id="36">
+    <name>Theater</name>
+    <toolTip>Im Theater wird Unterhaltung für eine mittelgroße Region geboten. Die Schauspielerei erfordert eine Grundausbildung.</toolTip>
+  </Building>
+  <Building id="37">
+    <name>Würfelhaus</name>
+    <toolTip>Im Würfelhaus wird Unterhaltung für eine kleine Region geboten. Das Haus scheint allerdings immer öfter zu gewinnen...</toolTip>
+  </Building>
+  <Building id="38">
+    <name>Schneiderei</name>
+    <toolTip>In der Schneiderei wird aus Stoff Kleidung hergestellt.</toolTip>
+  </Building>
+  <Building id="39">
+    <name>Brunnen</name>
+    <toolTip>Ein Brunnen versorgt ein bestimmtes Gebiet mit Wasser. Brunnenwasser ist gut genug für die Unterschicht.</toolTip>
+  </Building>
+  <Building id="40">
+    <name>Kleiner Tempel: Venus</name>
+    <toolTip>Tempel befriedigen die religiösen Bedürfnisse deines Volkes sowie die Wünsche der Götter.</toolTip>
+  </Building>
+  <Building id="41">
+    <name>Tempel: Ceres</name>
+    <toolTip>Tempel befriedigen die religiösen Bedürfnisse deines Volkes sowie die Wünsche der Götter.</toolTip>
+  </Building>
+  <Building id="42">
+    <name>Tempel: Minerva</name>
+    <toolTip>Tempel befriedigen die religiösen Bedürfnisse deines Volkes sowie die Wünsche der Götter.</toolTip>
+  </Building>
+  <Building id="43">
+    <name>Tempel: Venus</name>
+    <toolTip>Tempel befriedigen die religiösen Bedürfnisse deines Volkes sowie die Wünsche der Götter.</toolTip>
+  </Building>
+  <Building id="44">
+    <name>Brücke</name>
+    <toolTip>Mit Brücken kannst du schneller Wasser überqueren.</toolTip>
+  </Building>
+  <Building id="45">
+    <name>Wasserspeicher</name>
+    <toolTip>In Wasserspeichern wird Wasser für den Gebrauch in deiner Stadt gespeichert. Wasserspeicher müssen in der Nähe von Wasser platziert oder an Aquädukte angeschlossen werden.</toolTip>
+  </Building>
+  <Building id="46">
+    <name>Aquädukt</name>
+    <toolTip>Aquädukte sorgen für den Transport von Wasser zwischen Wasserspeichern.</toolTip>
+  </Building>
+  <Building id="47">
+    <name>Guten Brunnen</name>
+    <toolTip>Der Brunnen liefert sauberes Wasser auf einen bestimmten Bereich. Sauberes Wasser ist gut genug für alle Bürgerinnen und Bürger. Benötigt Zugriff auf Reservoirs.</toolTip>
+  </Building>
+  <Building id="48">
+    <name>Badehaus</name>
+    <toolTip>Badehäuser bieten eine bessere Gesundheit durch Sauberkeit und Entsorgung der Abfälle. Benötigt Zugriff auf Reservoirs.</toolTip>
+  </Building>
+  <Building id="49">
+    <name>Arzt</name>
+    <toolTip>Ärzte bieten eine bessere Gesundheit durch Heilung von kranken Personen. </toolTip>
+  </Building>
+  <Building id="50">
+    <name>Steinbruch</name>
+    <toolTip>Steinbrüche produizieren Steine für deine Stadt.</toolTip>
+  </Building>
+  <Building id="51">
+    <name>Statue</name>
+    <toolTip>Statuen erhöhen die Attraktivität in einem Gebiet.</toolTip>
+  </Building>
+  <Building id="52">
+    <name>Garten</name>
+    <toolTip>Gärten erhöhen die Attraktivität in einem Gebiet.</toolTip>
+  </Building>
+  <Building id="53">
+    <name>Olivenhain</name>
+    <toolTip>Olivenhain produzieren Oliven.</toolTip>
+  </Building>
+  <Building id="54">
+    <name>Olivenpresse</name>
+    <toolTip>Oliven Pressen produzieren Olivenöl aus Oliven.</toolTip>
+  </Building>
+</Root>

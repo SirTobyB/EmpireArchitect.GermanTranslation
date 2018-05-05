@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<TalentTree>
+  <name>Bevölkerung</name>
+  <rowReq>5</rowReq>
+
+
+  <Talent id="6">
+    <name>Speichenräder</name>
+    <tooltip>Wagenschieber bewegen sich pro ausgegebenem Punkt 5 % schneller.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\SpokedWheels</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>0</x>
+      <y>0</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+  <Talent id="7">
+    <name>Hidden Pathways</name>
+    <tooltip>Merchants move 3% faster per point spent.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\MerchantSpeed</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>0</x>
+      <y>1</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+  <Talent id="9">
+    <name>Workmanship</name>
+    <tooltip>Workshop workers work 3% faster per point spent.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\WorkshopProductionSpeed</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>1</x>
+      <y>1</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+
+  <Talent id="10">
+    <name>Craftsmanship</name>
+    <tooltip>Finishing workers work 3% faster per point spent.</tooltip>
+    <imagepath>2d\\UI\\TalentScreen\\FinishingShopProductionSpeed</imagepath>
+    <newSkill></newSkill>
+    <Pos>
+      <x>1</x>
+      <y>2</y>
+    </Pos>
+    <max>5</max>
+  </Talent>
+</TalentTree>
